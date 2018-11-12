@@ -1,15 +1,15 @@
-Fully functioning PHP message board with:
-
--List of existing messages, sorted most recent first
--Paginated, 10 per page - can be easily changed in code
--User creation/login page
--User logs in and posts as log-in name
--Posts display user name, email address, message
--User name, email, and password validation
--Users can delete own messages
--Admin can delete any/all messages
-
-
+Fully functioning PHP message board with:  
+  
+-List of existing messages, sorted most recent first  
+-Paginated, 10 per page - can be easily changed in code  
+-User creation/login page  
+-User logs in and posts as log-in name  
+-Posts display user name, email address, message  
+-User name, email, and password validation  
+-Users can delete own messages  
+-Admin can delete any/all messages  
+  
+  
 Additional:
 
 -DB table holds user info, separate table holds messages
