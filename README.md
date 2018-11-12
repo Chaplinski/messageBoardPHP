@@ -19,6 +19,9 @@ Additional:
 -User names and email addresses must be unique  
 -Users have log out button  
   
+To launch in XAMPP:  
+-Add /DB/message_board to xampp\mysql\data  
+-Add /site to xampp\htdocs  
   
 Current User/Passwords:  
 (Since passwords are hashed, this is necessary)  
