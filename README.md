@@ -26,7 +26,7 @@ To launch in XAMPP:
 -Add /site to xampp\htdocs  
   
 Current User/Passwords:  
-(Since passwords are hashed, this is necessary)  
+(Since passwords are hashed, simply checking the DB will not display plaintext passwords)  
   
 user name: admin  
 password: adminadmin  
