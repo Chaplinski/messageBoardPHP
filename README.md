@@ -16,7 +16,7 @@ Additional:
   
 -DB table holds user info, separate table holds messages  
 -Inner join used to display messages alongside user name and email  
--No matter what page the user is on, the URL is index.php  
+-No matter what page the user is on, the URL is https://scott-chaplinski.com  
 -Password hashing  
 -User names and email addresses must be unique  
 -Users have log out button  
